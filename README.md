@@ -2,7 +2,6 @@
 
 An immersive, scroll-driven gallery of India’s stepwells (baolis, vavs, jhalras and kunds). The page is a stack of floating parchment panels in 3D space. Scrolling lowers the camera down the shaft, one level at a time, while far panels blur and a synthesised ambient soundscape deepens.
 
-**Live preview:** https://claude.ai/artifact/G8svPZsv9VJR2Jvb3UQMBp
 
 ![Hero](docs/screenshots/01-hero.png)
 
